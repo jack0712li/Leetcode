@@ -22,7 +22,7 @@ class Solution:
         return [0]
                             
         
-        
+        break
         
         
 # @lc code=end
