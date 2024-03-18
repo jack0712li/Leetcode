@@ -21,7 +21,7 @@ class Solution:
                 record[nums[i]] = i
         return [0]
         
-        # break
+        
                             
         
         
