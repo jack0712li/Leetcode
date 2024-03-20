@@ -20,6 +20,8 @@ class Solution:
             else:
                 record[nums[i]] = i
         return [0]
+        
+        
                             
         
         
