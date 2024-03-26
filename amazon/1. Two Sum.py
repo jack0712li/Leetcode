@@ -10,3 +10,5 @@ class Solution:
                 seen[nums[i]] = i
 
         return [0]
+    
+    # break
